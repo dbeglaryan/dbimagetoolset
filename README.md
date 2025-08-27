@@ -3,7 +3,8 @@
 > **Open one image. See what it leaks. Clean it. Save it.**  
 > A tiny, offline desktop app (Tkinter + Pillow + ExifTool) to inspect and sanitize image metadata.
 
-![screenshot](docs/screenshot.png)
+![screenshot](docs/interface.png)
+![screenshot](docs/imageloaded.png)
 
 ## Features
 - 🔎 EXIF summary + raw JSON
